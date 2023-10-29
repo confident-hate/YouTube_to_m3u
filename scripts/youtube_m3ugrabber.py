@@ -67,7 +67,7 @@ https://i.mjh.nz/SamsungTVPlus/INBC4300008IH.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
-#EXTINF:-1 group-title="Movies",Sony Movies
+#EXTINF:-1 group-title="Movies",Sony Movie Channel (SONY) [386]
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment",Colors Infinity HD
@@ -243,7 +243,7 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-print('#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"')
+print('#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml"')
 print(banner)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
