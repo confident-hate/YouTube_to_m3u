@@ -82,6 +82,9 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
 #EXTINF:-1 channel-id="samsung-USBC36000073J" tvg-id="USBC36000073J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC36000073J_20221214T015041SQUARE.png_20221214015042.png" group-title="United States" , RetroCrush
 https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.redbox.com/images/reels/fltv/Stylized/AMCN_AnimexHIDIVE_RedboxFLTV_ChannelStylizedLogo_248x140_v01_Bill_Watts.jpg" group-title="United States", ANIME x HIDIVE 
+https://b92ce5e96c924931a49f2d97401db3a9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_ANIMExHIDIVE/playlist.m3u8
+
 #EXTINF:-1 channel-id="pluto-5f7790b3ed0c88000720b241" tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="United States" , One Piece
 https://i.mjh.nz/PlutoTV/5f7790b3ed0c88000720b241-alt.m3u8
 
