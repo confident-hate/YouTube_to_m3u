@@ -246,7 +246,7 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-print('#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml"')
+print('#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml"')
 print(banner)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
