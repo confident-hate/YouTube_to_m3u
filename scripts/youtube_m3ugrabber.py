@@ -29,13 +29,13 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
 #EXTINF:-1 group-title="Movies",Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
 
 #EXTINF:-1 group-title="Movies",& Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 
 #EXTINF:-1 group-title="Movies",Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 
 #EXTINF:-1 group-title="Movies",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -48,6 +48,15 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot
 
 #EXTINF:-1 channel-id="samsung-INBD21000016Y" tvg-id="INBD21000016Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20230726T002252SQUARE.png_20230726002253.png"  group-title="Movies" , The Movie Club
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
+
+#EXTINF:-1 channel-id="samsung-INBC150001605" tvg-id="INBC150001605" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC150001605_20230628T010540SQUARE.png_20230628010541.png" group-title="Movies" , Pitaara
+https://i.mjh.nz/SamsungTVPlus/INBC150001605.m3u8
+
+#EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="Movies",Xtrema Cine Hindi
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",Bollywood Prime (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-bollywoodprime-lgau/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-INBC4300002N8" tvg-id="INBC4300002N8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300002N8_20221214T015317SQUARE.png_20221214015318.png"  group-title="Movies" , South Station
 https://i.mjh.nz/SamsungTVPlus/INBC4300002N8.m3u8
@@ -63,6 +72,12 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 group-title="Movies",Sony Movie Channel (SONY) [386]
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD17000117B" tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20230726T004507SQUARE.png_20230726004509.png" group-title="Movies" , MovieSphere
+https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBA33000557H" tvg-id="GBBA33000557H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000557H_20221201T014509SQUARE.png_20221201014510.png" group-title="Movies" , MovieSphere
+https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment",Colors Infinity HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
@@ -86,7 +101,16 @@ https://i.mjh.nz/PlutoTV/5f7790b3ed0c88000720b241-alt.m3u8
 https://i.mjh.nz/PlutoTV/5da0c85bd2c9c10009370984-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5d0c16d686454ead733d08f8" tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="United States" , TOTALLY TURTLES
-https://i.mjh.nz/PlutoTV/5d0c16d686454ead733d08f8-alt.m3u8
+https://i.mjh.nz/PlutoTV/15d0c16d686454ead733d08f8-alt.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100010UB" tvg-id="GBBD1100010UB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20230712T021203SQUARE.png_20230712021204.png" group-title="United States" , Super Anime
+https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
+
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="United States",AniPlus (1080p)
+https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="United States",Toonami 1080p
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
 
 #EXTINF:-1 group-title="ToonamiAftermath",Toonami Aftermath East EST
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
@@ -126,6 +150,9 @@ https://i.mjh.nz/SamsungTVPlus/INBB2800007DA.m3u8
 
 #EXTINF:-1 channel-id="samsung-INBB280000836" tvg-id="INBB280000836" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB280000836_20220525T002355SQUARE.png_20220525002356.png" tvg-chno="1164" group-title="Nature" , Discovery HD
 https://i.mjh.nz/SamsungTVPlus/INBB280000836.m3u8
+
+#EXTINF:-1 channel-id="samsung-INBA5100002L2" tvg-id="INBA5100002L2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100002L2_20220525T002430SQUARE.png_20220525002432.png" tvg-chno="1165" group-title="Nature" , Magellan TV Now
+https://i.mjh.nz/SamsungTVPlus/INBA5100002L2.m3u8
 
 #EXTINF:-1 channel-id="samsung-INBC1500002TR" tvg-id="INBC1500002TR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500002TR_20220427T054732SQUARE.png_20220427054733.png" tvg-chno="1166" group-title="Nature" , Animal Planet HD
 https://i.mjh.nz/SamsungTVPlus/INBC1500002TR.m3u8
