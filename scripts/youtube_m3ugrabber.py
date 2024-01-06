@@ -52,9 +52,6 @@ https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF:-1 channel-id="samsung-INBC150001605" tvg-id="INBC150001605" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC150001605_20230628T010540SQUARE.png_20230628010541.png" group-title="Movies" , Pitaara
 https://i.mjh.nz/SamsungTVPlus/INBC150001605.m3u8
 
-#EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="Movies",Xtrema Cine Hindi
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies",Bollywood Prime (AU)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-bollywoodprime-lgau/playlist.m3u8
 
@@ -112,7 +109,7 @@ https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="United States",Toonami 1080p
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
 
-#EXTINF:-1 group-title="ToonamiAftermath",Toonami Aftermath East EST
+#EXTINF:-1 tvg-id="ToonamiAftermathEast.us" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="ToonamiAftermath",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 group-title="ToonamiAftermath",Toonami Aftermath West PST
@@ -267,7 +264,7 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-print('#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml"')
+print('#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/confident-hate/epg/master/guide.xml,https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml"')
 print(banner)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
