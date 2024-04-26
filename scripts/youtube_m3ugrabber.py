@@ -26,7 +26,7 @@ https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
 #EXTINF:-1 group-title="Movies",Bollywood HD
-https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 
 #EXTINF:-1 group-title="Movies",Bollywood Classic
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
