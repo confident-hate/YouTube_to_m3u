@@ -2,10 +2,10 @@
 
 banner = r'''
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-HD-New-Logo.png",SET HD
-https://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73024
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73024
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png",SONY SAB HD
-https://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/67220
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/67220
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PAL-New-Logo.png",SONY PAL
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
