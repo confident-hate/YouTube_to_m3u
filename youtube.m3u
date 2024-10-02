@@ -230,7 +230,7 @@ https://raw.githubusercontent.com/confident-hate/YouTube_to_m3u/main/assets/moos
 https://raw.githubusercontent.com/confident-hate/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Cocomelon - Nursery Rhymes
-https://raw.githubusercontent.com/confident-hate/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727914593/ei/AY79ZqDHC4e-sfIP29KvkQg/ip/52.234.38.32/id/bxscTfFh9ZY.19/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxbzQAhhCJ1z8gLJVPxFJfcMp8KC4l-faLjhx9txt0rOgJJ64SasCIZxl/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgA0SC9YqLqWyg_HAGRVcodF1AVInP4PZH_Ig-f0tNs8oCIQDJIyDJwuMoM7EoLVWSFWcwqb7ddy1Lm92i3R-9DLD2sw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", ChuChu TV Nursery Rhymes
 https://raw.githubusercontent.com/confident-hate/YouTube_to_m3u/main/assets/moose_na.m3u
